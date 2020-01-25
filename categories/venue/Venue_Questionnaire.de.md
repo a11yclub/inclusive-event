@@ -114,8 +114,8 @@ ___
   - [ ] Wer übernimmt die Bedienung?
   - [ ] Welche technischen Möglichkeiten bestehen? Überblendung zwischen unterschiedlichen Videosignalen? Kombinierte Signale (Video / Audio)? (abhängig von Anforderungen, z.B. Live-Stream, Live Captions)
 - [ ] Ist eine stabile Internetverbindung verfügbar? Geschwindigkeit?
-- Live-Stream
-  - [ ] Eignet sich die Internetverbindung für einen Live-Stream? Gibt es Erfahrungswerte? Stabilität?
+- [ ] Eignet sich die Internetverbindung für einen Live-Stream?
+  - [ ] Gibt es Erfahrungswerte mit Live-Streams? Stabilität?
   
 #### Barrierefreiheit
   - [ ] Zusätzlicher Projektor / Bildschirm für Live Captions?
